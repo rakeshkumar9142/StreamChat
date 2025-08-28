@@ -2,7 +2,7 @@
   "name": "streamchatbackend",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "type": "module",
+  "type": "commonjs",
   "engines": {
     "node": ">=20"
   },
