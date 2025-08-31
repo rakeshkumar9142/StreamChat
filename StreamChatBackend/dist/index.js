@@ -20,4 +20,4 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log(`Server is ruining at http://localhost:${PORT}`);
 });
-//# sourceMappingURL=index.js.ma
+//# sourceMappingURL=index.js.map
